@@ -1,0 +1,1 @@
+AI product workflow practice uses synthetic text. Review API contracts, test failures and explain delivery decisions.
